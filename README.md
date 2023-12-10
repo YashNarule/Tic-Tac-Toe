@@ -1,16 +1,14 @@
-# Todo-List-React
+# tic-tac-toe
+Tic-tac-toe game using React and Typescript
 
-This is a React To do list app where one can add todo tasks, edit todo tasks and can also delete the todo task.
-
-# Technology Stack
-
-*React*   *HTML*   *CSS*   *Javascript*
-
-# Screenshots of the project
-![Screenshot 2023-08-24 064437](https://github.com/pulkit225/Todo-List-React/assets/101818015/d264d5bd-2803-415a-a969-d30d64759946)
-
-
-![Screenshot 2023-08-24 064848](https://github.com/pulkit225/Todo-List-React/assets/101818015/2f227873-e0d8-4082-bc38-cbdbf3b3d9e2)
+![Screenshot 2023-09-27 013521](https://github.com/pulkit225/tic-tac-toe/assets/101818015/44115292-1d67-4ff8-9b1b-932bde2b3544)
+![Screenshot 2023-09-27 013530](https://github.com/pulkit225/tic-tac-toe/assets/101818015/bcba1593-209a-4a43-8666-e4ac52c50892)
+![Screenshot 2023-09-27 013605](https://github.com/pulkit225/tic-tac-toe/assets/101818015/f44604f1-d59f-4083-a347-79dfef957f34)
+![Screenshot 2023-09-27 013609](https://github.com/pulkit225/tic-tac-toe/assets/101818015/7b5852f1-3b3f-42a8-908a-04e9926d36b9)
+![Screenshot 2023-09-27 013637](https://github.com/pulkit225/tic-tac-toe/assets/101818015/f6f3c0ad-cb2d-4133-bed3-66e025c3247d)
+![Screenshot 2023-09-27 013815](https://github.com/pulkit225/tic-tac-toe/assets/101818015/13980421-f606-430c-a6ab-63337fdf9a8b)
 
 
-![Screenshot 2023-08-24 064918](https://github.com/pulkit225/Todo-List-React/assets/101818015/57aa649d-b0bc-4c5f-a399-3ca2d4f4048d)
+
+
+
